@@ -6,3 +6,6 @@ bowser<-readline("enter votes for bowser :")
 total<- mario + peach + bowser 
 
 print(paste("Total Votes:" , total ))
+
+# lab work ----------------------------------------------------------------
+
